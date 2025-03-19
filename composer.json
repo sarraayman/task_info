@@ -1,0 +1,9 @@
+{
+    "name": "saraayman/taskinfo",
+    "description": "A simple project with JWT authentication",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^6.0"
+    },
+    "license": "MIT"
+}

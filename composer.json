@@ -3,7 +3,8 @@
     "description": "A simple project with JWT authentication",
     "type": "project",
     "require": {
-        "firebase/php-jwt": "^6.0"
+        "firebase/php-jwt": "^6.0",
+        "sonata-project/google-authenticator": "^2.3"
     },
     "license": "MIT"
 }
